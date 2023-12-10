@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Md. Amdadul Bari Imad and I'm a software developer/DevOps engineer. I'm from Dhaka, Bangladesh and currently working as a Sr DevOps Engineer at a private organization. You can find me on [![LinkedIn][3.2]][3].
+My name is Md. Amdadul Bari Imad and I'm a software developer/DevOps engineer. I'm from Dhaka, Bangladesh and currently working as a Lead DevOps Engineer at a private organization. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
