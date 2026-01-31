@@ -3,8 +3,6 @@
 I’m **Md. Amdadul Bari Imad**, a DevOps & Cloud-Native Engineer based in Dhaka, Bangladesh.  
 Currently working as a **Technical Lead,DevOps** focusing on Kubernetes, CI/CD, GitOps, automation, and platform reliability.
 
-You can find me on [![LinkedIn][3.2]][3]
-
 ---
 
 ## 🔧 Technologies & Tools
